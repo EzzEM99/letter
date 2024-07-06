@@ -87,13 +87,14 @@
   top: 70%;
 }
 
-.recipient {
+#name {
   position: absolute;
-  bottom: 10px; /* Ajusta la posición según sea necesario */
-  width: 100%;
-  text-align: center;
+  top: 50px;
+  left: 20px;
   font-style: italic;
-  color: #333; /* Color del texto */
+  font-size: 20px;
+  color: #333;
+  z-index: 4;
 }
 
 .open .flap {
