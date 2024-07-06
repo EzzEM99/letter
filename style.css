@@ -260,11 +260,11 @@ body {
 
 .recipient-sticker {
   position: absolute;
-  top: 30px; /* Ajusta la posición vertical */
+  top: 45%; /* Ajusta la posición vertical */
   left: 50%; /* Centra horizontalmente */
   transform: translateX(-50%);
   font-style: italic;
   font-size: 18px; /* Ajusta el tamaño del texto según sea necesario */
   color: #000; /* Color del texto */
-  z-index: 3; /* Asegura que esté por delante del sobre */
+  z-index: 4; /* Asegura que esté por delante del sobre */
 }
