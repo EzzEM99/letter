@@ -259,9 +259,9 @@ body {
 }
 
 .recipient-sticker {
-  position: absolute;
-  top: 45%; /* Ajusta la posición vertical */
-  left: 50%; /* Centra horizontalmente */
+  position: relative;
+  top: 45px; /* Ajusta la posición vertical */
+  left: -34px; /* Centra horizontalmente */
   transform: translateX(-50%);
   font-style: italic;
   font-size: 18px; /* Ajusta el tamaño del texto según sea necesario */
