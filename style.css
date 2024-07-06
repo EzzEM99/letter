@@ -268,3 +268,11 @@ body {
   color: #000; /* Color del texto */
   z-index: 6; /* Asegura que esté por delante del sobre */
 }
+
+.destinatario {
+  top: 45px;
+  left: -34px;
+  font-style: italic;
+  font-size: 18px;
+  color: #000;
+}
