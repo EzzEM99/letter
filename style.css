@@ -266,5 +266,5 @@ body {
   font-style: italic;
   font-size: 18px; /* Ajusta el tamaño del texto según sea necesario */
   color: #000; /* Color del texto */
-  z-index: 4; /* Asegura que esté por delante del sobre */
+  z-index: 6; /* Asegura que esté por delante del sobre */
 }
