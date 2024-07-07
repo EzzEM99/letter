@@ -67,12 +67,14 @@
   width: 80%;
   height: 14%;
   background-color: #fdb7ba;
+  justify-content: center;
+  display: flex;
 }
 
 .words.line1 {
   top: 15%;
-  width: 20%;
-  height: 7%;
+  width: 35%;
+  height: 11%;
 }
 
 .words.line2 {
