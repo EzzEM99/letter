@@ -24,16 +24,16 @@
   border-right: 140px solid transparent;
   border-bottom: 82px solid transparent;
   /* a little smaller */
-  border-top: 98px solid #ff3333;
+  border-top: 98px solid #9B59B6;
   /* a little larger */
   transform-origin: top;
   pointer-events: none;
 }
 
 .pocket {
-  border-left: 140px solid #ff9999;
-  border-right: 140px solid #ff9999;
-  border-bottom: 90px solid #fd8787;
+  border-left: 140px solid #C49CDE;
+  border-right: 140px solid #C49CDE;
+  border-bottom: 90px solid #B87CC7;
   border-top: 90px solid transparent;
   border-bottom-left-radius: 6px;
   border-bottom-right-radius: 6px;
@@ -224,7 +224,7 @@
   }
 }
 body {
-  background-color: #f7d9da;
+  background-color: #D8BFD8;
 }
 
 .envlope-wrapper {
@@ -241,9 +241,9 @@ body {
   transition: all 0.1s linear;
   -webkit-appearance: none;
   background-color: transparent;
-  border: solid 2px #ff5757;
+  border: solid 2px #9B59B6;
   border-radius: 4px;
-  color: #ff5757;
+  color: #9B59B6;
   display: inline-block;
   font-size: 14px;
   text-transform: uppercase;
